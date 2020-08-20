@@ -11,3 +11,4 @@ leaning how to use github
 - at this point having a conflict
 - check conflict one more time
 - slowly do a flow again to understand commands more clearly and clearly
+- master branch changes at the same line 14
