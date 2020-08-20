@@ -12,3 +12,4 @@ leaning how to use github
 - check conflict one more time
 - slowly do a flow again to understand commands more clearly and clearly
 - master branch changes at the same line 14
+- develop branch changes at line 14
