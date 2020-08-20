@@ -1,5 +1,6 @@
 # json-tutorial
 leaning how to use github
+- come back to learn fetch command
 - I'm Huy
 - How about you?
 - I'm an amateur.
