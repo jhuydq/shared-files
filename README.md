@@ -17,3 +17,4 @@ leaning how to use github
 - test checkout branch new-features whether the content in local or in server
 - test checkout command [be different from switch command]
 - test checkout 
+- edit last line
