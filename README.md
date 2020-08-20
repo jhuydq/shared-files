@@ -7,3 +7,5 @@ leaning how to use github
 - Change in the branch new-features then push to master
 - try again to confirm
 - test checkout branch new-features whether the content in local or in server
+
+- test checkout 
