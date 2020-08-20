@@ -19,3 +19,4 @@ leaning how to use github
 - test checkout command [be different from switch command]
 - test checkout 
 - edit last line
+- test fetch command
