@@ -9,3 +9,4 @@ leaning how to use github
 - try conflict
 - yes, at here
 - at this point having a conflict
+- check conflict one more time
