@@ -10,3 +10,4 @@ leaning how to use github
 - yes, at here
 - at this point having a conflict
 - check conflict one more time
+- slowly do a flow again to understand commands more clearly
