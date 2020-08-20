@@ -6,3 +6,4 @@ leaning how to use github
 - I'm adding this line in the new-features branch 
 - Change in the branch new-features then push to master
 - try again to confirm
+- try conflict
